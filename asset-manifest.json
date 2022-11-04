@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/midterm-candidates/static/css/main.5acb9006.css",
+    "main.js": "/midterm-candidates/static/js/main.991e702d.js",
+    "static/js/787.e9d08282.chunk.js": "/midterm-candidates/static/js/787.e9d08282.chunk.js",
+    "index.html": "/midterm-candidates/index.html",
+    "main.5acb9006.css.map": "/midterm-candidates/static/css/main.5acb9006.css.map",
+    "main.991e702d.js.map": "/midterm-candidates/static/js/main.991e702d.js.map",
+    "787.e9d08282.chunk.js.map": "/midterm-candidates/static/js/787.e9d08282.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5acb9006.css",
+    "static/js/main.991e702d.js"
+  ]
+}
