@@ -1,0 +1,49 @@
+.cardlist {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+    /* width: 960px; */
+    flex-flow: row wrap;
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+    box-shadow: 7px 7px 7px lightgrey;
+    transition: all 1s;
+    color: #333;
+}
+
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.robo-img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+.R {
+    border: 3px solid rgb(176, 2, 2);
+}
+
+.D {
+    border: 3px solid rgb(0, 0, 123);
+}
+
+.L {
+    border: 3px solid gold;
+}
