@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/midterm-candidates/static/css/main.5acb9006.css",
-    "main.js": "/midterm-candidates/static/js/main.2a527b92.js",
+    "main.js": "/midterm-candidates/static/js/main.8d44d51b.js",
     "static/js/787.e9d08282.chunk.js": "/midterm-candidates/static/js/787.e9d08282.chunk.js",
     "static/media/flag-bg.jpg": "/midterm-candidates/static/media/flag-bg.fd32bbc4a93f2f31c209.jpg",
     "index.html": "/midterm-candidates/index.html",
     "main.5acb9006.css.map": "/midterm-candidates/static/css/main.5acb9006.css.map",
-    "main.2a527b92.js.map": "/midterm-candidates/static/js/main.2a527b92.js.map",
+    "main.8d44d51b.js.map": "/midterm-candidates/static/js/main.8d44d51b.js.map",
     "787.e9d08282.chunk.js.map": "/midterm-candidates/static/js/787.e9d08282.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5acb9006.css",
-    "static/js/main.2a527b92.js"
+    "static/js/main.8d44d51b.js"
   ]
 }
