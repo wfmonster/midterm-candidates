@@ -8,10 +8,8 @@ import {republican_candidates,
 import Searchbox from './Search/Searchbox';
 import React from 'react';
 
-
-// todo
-// [ ] - add state for searchbox
-
+// images
+import flag from './flag-bg.jpg'
 
 function App() {
     const [searchfield, setSearchfield] = useState("");
@@ -29,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <div class="heading-img">
-        <img src="../imgs/flag-bg.jpg" alt="American Flag Background" />
+        <img src={flag} alt="American Flag Background" />
       </div>
       <div class="heading">
       <h1> 2022 Midterm Elections - Mississippi</h1>
@@ -37,7 +35,7 @@ function App() {
       <p>Voting Info and Registration:<br /> <a href="www.sos.ms.gov">Y'all Vote</a></p>
       </div>
 
-      <Searchbox searchChange={onsearchchange} />
+      {/* <Searchbox searchChange={onsearchchange} /> */}
  
       <div class="republicans">
         <h3>Republican</h3>
